@@ -5,7 +5,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# acOS
+#MacOS
 .DS_Store
 
 #VS Code
@@ -14,6 +14,9 @@ __pycache__/
 #Ignore my users I made for testing, but keep the folder
 Files/Users/*
 !Files/Users/.keep
+
+#Ignore my toDo list
+toDo.txt
 
 #Environment
 .env
