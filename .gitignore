@@ -1,0 +1,20 @@
+
+#Random Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# acOS
+.DS_Store
+
+#VS Code
+.vscode/
+
+#Ignore my users I made for testing, but keep the folder
+Files/Users/*
+!Files/Users/.keep
+
+#Environment
+.env
+venv/
